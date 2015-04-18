@@ -1,0 +1,1 @@
+Lab 3A is just to implement a queue (dynamic, iirc). 3B was Extra Credit.
